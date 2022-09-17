@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的CV</title>
+    <url>/posts/undefined/</url>
+    <content><![CDATA[<p>Dr. Xingjun Huang, Management Science and Engineering, Chongqing University</p>
+<p>comments: 文章是否开启评论<br>photos: 文章封面图（仅部分主题支持）<br>tags: </p>
+<ul>
+<li>文章标签一</li>
+<li>文章标签二<br>categories: 文章分类<br>description: 文章描述，即要在首页显示的摘要（仅部分主题支持）</li>
+</ul>
+<hr>
+<p>这里是摘要</p>
+<span id="more"></span>
+<p>这里是正文<br>注意：description 和 <!-- more --> 方式显示摘要二选一即可，部分主题不支持description，每个配置英文冒号后面要空一格，不同主题配置有所差异，具体要参考主题文档</p>
+<hr>
+<p>使用 Github Pages 和 Hexo 搭建自己的独立博客<br><a href="https://blog.51cto.com/u_14529928/5616793">https://blog.51cto.com/u_14529928/5616793</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/posts/undefined/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -16,23 +33,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的CV</title>
-    <url>/posts/undefined/</url>
-    <content><![CDATA[<p>Dr. Xingjun Huang, Management Science and Engineering, Chongqing University</p>
-<p>comments: 文章是否开启评论<br>photos: 文章封面图（仅部分主题支持）<br>tags: </p>
-<ul>
-<li>文章标签一</li>
-<li>文章标签二<br>categories: 文章分类<br>description: 文章描述，即要在首页显示的摘要（仅部分主题支持）</li>
-</ul>
-<hr>
-<p>这里是摘要</p>
-<span id="more"></span>
-<p>这里是正文<br>注意：description 和 <!-- more --> 方式显示摘要二选一即可，部分主题不支持description，每个配置英文冒号后面要空一格，不同主题配置有所差异，具体要参考主题文档</p>
-<hr>
-<p>使用 Github Pages 和 Hexo 搭建自己的独立博客<br><a href="https://blog.51cto.com/u_14529928/5616793">https://blog.51cto.com/u_14529928/5616793</a></p>
 ]]></content>
   </entry>
 </search>
