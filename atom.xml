@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Dr.Xingjun Huang</title>
-  
-  
+  <title>Dr. Xingjun Huang</title>
+  <icon>https://www.gravatar.com/avatar/f2fda60389038f79e5af6745e8b6f385</icon>
+  <subtitle>黄星军</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,16 +10,16 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>Xingjun Huang</name>
-    
+    <name>黄星军</name>
+    <email>1121291116@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>我的CV</title>
-    <link href="http://example.com/2022/09/16/%E6%88%91%E7%9A%84CV/"/>
-    <id>http://example.com/2022/09/16/%E6%88%91%E7%9A%84CV/</id>
+    <link href="http://example.com/posts/undefined/"/>
+    <id>http://example.com/posts/undefined/</id>
     <published>2022-09-16T08:31:10.000Z</published>
     <updated>2022-09-16T08:35:39.251Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/09/16/hello-world/"/>
-    <id>http://example.com/2022/09/16/hello-world/</id>
+    <link href="http://example.com/posts/undefined/"/>
+    <id>http://example.com/posts/undefined/</id>
     <published>2022-09-16T08:03:25.641Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
